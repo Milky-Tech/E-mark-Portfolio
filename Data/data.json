@@ -1,0 +1,28 @@
+{
+  "projects": {
+    "name": "realestwayDashboard",
+    "projectOverview": [
+      "User-Friendly",
+      "Mockup",
+      "Advance search & Filtering",
+      "Security & Digital Privacy"
+    ],
+    "description": "EMARK is a mobile application designed to streamline the coffee ordering experience for customers in Ile-Ife, Modakeke. This project involved crafting a visually engaging and intuitive user interface that allows users to browse, customize, and order their favorite coffee drinks with ease.",
+    "features": [
+      "Welcome Screen: Warm and inviting entry point that sets the tone for the coffee experience.",
+      "Product Selection: A clean layout showcasing various coffee options with images, names, and ratings.",
+      "Detailed Product View: Users can explore coffee descriptions, select sizes, choose milk preferences, and view ratings.",
+      "Ordering Flow: Seamless cart management and ordering process with options to add items or order instantly."
+    ],
+    "impact": "This project demonstrates a thoughtful approach to digital product design, combining aesthetics with functionality to elevate the coffee shop experience. EMARK is positioned to boost customer engagement and streamline operations for local coffee vendors. Would you like help turning this into a portfolio page or pitch deck?",
+    "objectives": [
+      "Simplify ordering: Reduce friction in selecting and customizing coffee products.",
+      "Enhance user experience: Create a clean, modern UI that feels warm and welcoming.",
+      "Support local business: Empower coffee vendors with a digital platform to reach more customers.",
+      "Increase efficiency: Enable quick browsing, instant ordering, and easy checkout.",
+      "Build trust: Use consistent design elements and clear navigation to make users feel confident and in control."
+    ],
+    "goal": "The primary goal of the EMARK app design was to streamline the coffee ordering experience for users in Ile-Ife by combining speed, personalization, and convenience into a visually appealing and intuitive mobile interface.",
+    "process": "We ensure that entire project was centered was centered around the needs of Coffee Shop professionals. By incorporating comprehensive market research and feedback into each phase- from initial concept developmet to final usability testing. This  approach guarantees that the platform  is intuitive, effective, and  tailored to enhance the online coffee shopping experience."
+  }
+}
