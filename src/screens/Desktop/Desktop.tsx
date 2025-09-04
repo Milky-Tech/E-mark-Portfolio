@@ -64,6 +64,18 @@ export const Desktop = (): JSX.Element => {
     fetchProjects();
   }, []);
 
+  const handleDownloadResume = () => {
+    // Replace with the actual path to your resume file
+    const resumeUrl = "/Emark-cv.pdf";
+
+    // Create a temporary anchor element to trigger download
+    const link = document.createElement("a");
+    link.href = resumeUrl;
+    link.download = "Emmanuel_Adebayo_Resume.pdf";
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
   const handleFormChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
     setFormData((prev) => ({
@@ -259,7 +271,7 @@ export const Desktop = (): JSX.Element => {
           >
             My Project
           </Button>
-          <Button className="bg-[#FA8443]">
+          <Button className="bg-[#FA8443]" onClick={handleDownloadResume}>
             <Download />
             Download CV
           </Button>
